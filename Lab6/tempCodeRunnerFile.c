@@ -1,0 +1,1 @@
+printf("%f %d\n", sum, count);
