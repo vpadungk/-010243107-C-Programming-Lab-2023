@@ -1,5 +1,5 @@
 # [010243107] C Programming Lab Solution 2023
->**Note**: Do not copy all the code and expaination for submit assignment. This is only guildline. There're many solution to solve the problem.
+>**Note**: Do not copy all the code and expaination for submiting assignment. This is only guildline. There're many solution to solve the problem.
 
 This repo is all about solution and assignment submition to the Subject: 010243107 C Programming.
 
