@@ -1,5 +1,5 @@
 # [010243107] C Programming Lab Solution 2023
->**Note**: Do not copy all the code and expaination for submit assignment. This is only guildline. There're many solution to solve the problem.
+>**Note**: Do not copy all the code and expaination for submiting assignment. This is only guildline. There're many solution to solve the problem.
 
 This repo is all about solution and assignment submition to the Subject: 010243107 C Programming.
 
@@ -42,4 +42,7 @@ This is content of all Topic, Material and Solution
 (3rd Edition)
 Behrouz A. Forouzan and Richard F. Gilberg,
 Thomson Course Technology, 2007. 
+<<<<<<< HEAD
 2. ภาษา C จากพื้นฐานสู่การนำไปใช้, ผศ.ดร.นิรมล เรืองพยุงศักดิ์, มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ, 2565
+=======
+>>>>>>> 591ea053278b9ce79a031270b31269b99ed63d45
