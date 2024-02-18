@@ -42,7 +42,4 @@ This is content of all Topic, Material and Solution
 (3rd Edition)
 Behrouz A. Forouzan and Richard F. Gilberg,
 Thomson Course Technology, 2007. 
-<<<<<<< HEAD
 2. ภาษา C จากพื้นฐานสู่การนำไปใช้, ผศ.ดร.นิรมล เรืองพยุงศักดิ์, มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ, 2565
-=======
->>>>>>> 591ea053278b9ce79a031270b31269b99ed63d45
