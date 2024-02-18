@@ -24,9 +24,22 @@ This is content of all Topic, Material and Solution
 
 #### Report Paper
 - [Full Report](main.pdf) [*Note*: Only Lab 1-10]
+- [Lab week 1: Flowchart, printf and scanf](Lab1/Lab1.pdf)
+- [Lab week 2: Statement, Variables and Expressions](Lab2/Lab2.pdf)
+- [Lab week 3: Condition, If-else and Switch statement](Lab3/Lab3.pdf)
+- [Lab week 4: Loop operation and Condition Statement](Lab4/Lab4.pdf)
+- [Lab week 5: Array [I]: One Dimensional](Lab5/Lab5.pdf)
+- [Lab week 6: Array [II]: Two Dimensional](Lab6/Lab6.pdf)
+- [Lab week 7: String](Lab7/Lab7.pdf)
+- [Lab week 8: Pointer](Lab8/Lab8.pdf)
+- [Lab week 9: Function[I]: Void & Value](Lab9/Lab9.pdf)
+- [Lab week 10: Function[II]: Array & Pointer](Lab10/Lab10.pdf)
+- [Lab week 11: Enumerator & Structure]()[*Working on*]
+- [Lab week 12: File I/O]()[*Working on*]
 
 ## Ref
 1. Computer Science: A Structured Programming Approach Using C
 (3rd Edition)
 Behrouz A. Forouzan and Richard F. Gilberg,
 Thomson Course Technology, 2007. 
+2. ภาษา C จากพื้นฐานสู่การนำไปใช้, ผศ.ดร.นิรมล เรืองพยุงศักดิ์, มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ, 2565
