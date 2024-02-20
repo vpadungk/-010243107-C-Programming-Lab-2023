@@ -23,7 +23,7 @@ This is content of all Topic, Material and Solution
 - [Lab week 12: File I/O](Lab12/)
 
 #### Report Paper
-- [Full Report](main.pdf) [*Note*: Only Lab 1-10]
+- [Full Report](main.pdf) [*Note*: Only Lab 1-11]
 - [Lab week 1: Flowchart, printf and scanf](Lab1/Lab1.pdf)
 - [Lab week 2: Statement, Variables and Expressions](Lab2/Lab2.pdf)
 - [Lab week 3: Condition, If-else and Switch statement](Lab3/Lab3.pdf)
