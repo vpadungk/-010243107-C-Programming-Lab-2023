@@ -8,23 +8,27 @@ struct Student{
     char Department[100];
 };
 
-char Names[][50] = {"STD01","STD02","STD03","STD04","STD05"};
-long long int IDs[] = {6601023610001,6601023610002,6601023610003,6601023610004,6601023610005};
-int Ages[] = {18,19,20,21,22};
-char Departments[][50] = {"PRE","IEE","CPrE","ME","CHE"};
+void getUserInput(struct Student *s) {
+    printf("Enter student name: ");
+    scanf("%s", s->Name);
+    printf("Enter student ID: ");
+    scanf("%lld", &s->ID);
+    printf("Enter student age: ");
+    scanf("%d", &s->Age);
+    printf("Enter student department: ");
+    scanf("%s", s->Department);
+    printf("\n");
+}
 
 int main(){
-    struct Student S[5];
+    struct Student Std[5];
     for (int i = 0; i < 5; i++) {
-        strcpy(S[i].Name, Names[i]);
-        S[i].ID = IDs[i];
-        S[i].Age = Ages[i];
-        strcpy(S[i].Department, Departments[i]);
+        getUserInput(&Std[i]);
     }
 
     printf("Student Information:\n");
     for (int i = 0; i < 5; i++) {
-        printf("Name: %s, ID: %lld, Age: %d, Department: %s\n", S[i].Name, S[i].ID, S[i].Age, S[i].Department);
+        printf("Name: %s, ID: %lld, Age: %d, Department: %s\n", Std[i].Name, Std[i].ID, Std[i].Age, Std[i].Department);
     }
     return 0;
 }
