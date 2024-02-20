@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 
 struct Student{
     char Name[50];
@@ -10,13 +9,13 @@ struct Student{
 
 void getUserInput(struct Student *s) {
     printf("Enter student name: ");
-    scanf("%s", s->Name);
+    scanf("%s", &s->Name);
     printf("Enter student ID: ");
     scanf("%lld", &s->ID);
     printf("Enter student age: ");
     scanf("%d", &s->Age);
     printf("Enter student department: ");
-    scanf("%s", s->Department);
+    scanf("%s", &s->Department);
     printf("\n");
 }
 

@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 typedef struct {
-int n;
-int d;
+    int n;
+    int d;
 } fraction;
 
 fraction SumFraction(fraction f1, fraction f2){

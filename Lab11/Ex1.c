@@ -9,7 +9,6 @@ enum Week {
     Saturday
 };
 enum Week Day;
-int i;
 
 int main(){
     Day = Wednesday;
