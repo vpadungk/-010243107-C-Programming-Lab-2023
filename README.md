@@ -34,7 +34,7 @@ This is content of all Topic, Material and Solution
 - [Lab week 8: Pointer](Lab8/Lab8.pdf)
 - [Lab week 9: Function[I]: Void & Value](Lab9/Lab9.pdf)
 - [Lab week 10: Function[II]: Array & Pointer](Lab10/Lab10.pdf)
-- [Lab week 11: Enumerator & Structure]()[*Working on*]
+- [Lab week 11: Enumerator & Structure](Lab11/Lab11.pdf)
 - [Lab week 12: File I/O]()[*Working on*]
 
 ## Ref
