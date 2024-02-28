@@ -19,7 +19,7 @@ This is content of all Topic, Material and Solution
 - [Lab week 8: Pointer](Lab8/) [*Submited*: Feb 7 2024]
 - [Lab week 9: Function[I]: Void & Value](Lab9/) [*Submited*: Feb 14 2024]
 - [Lab week 10: Function[II]: Array & Pointer](Lab10/) [*Submited*: Feb 21 2024]
-- [Lab week 11: Enumerator & Structure](Lab11/) [*Finished*: Feb 13 2024]
+- [Lab week 11: Enumerator & Structure](Lab11/) [*Submit*: Feb 28 2024]
 - [Lab week 12: File I/O](Lab12/)
 
 #### Report Paper
