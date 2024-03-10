@@ -4,6 +4,8 @@
 This repo is all about solution and assignment submition to the Subject: 010243107 C Programming.
 
 ### Lab Week:
+> Note: [Lab Week 12 : File I/O] There're no lab in this topic.
+
 This is content of all Topic, Material and Solution
 #### Code
 **Mid-term Lab week**
